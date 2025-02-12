@@ -1,6 +1,8 @@
 # PWGood Hat for Geoguessr Chrome Extension
  Расширение для браузера, которое заменяет кепку из геогессера на шляпу Пугода.
  
+ ![image](https://github.com/user-attachments/assets/41b3de88-a167-4023-a06a-0e0b70c00bfd)
+
  Вся логика находится в файлах _manifest.json_ и _rules.json_.
 
  Запрос на спрайт кепки перехватывается и подсовывается мой спрайт, который залит на сервере ВК. 
@@ -18,5 +20,16 @@
 >
 >Так что оставлю здесь гайд, как использовать это чудо без всяких примудростей.
 
-### 1. Качаем проект и 
-![image](https://github.com/user-attachments/assets/98471d7a-85ef-4166-a0a2-a21e11b944f5)
+## 1. Качаем актуальный  [<ins>релиз</ins>](https://github.com/DenosScarlet/PWGood-Hat-for-Geoguessr-Chrome-Extension/releases/tag/v1.0.0) и папку из архива помещаем куда-нибудь на диск.
+![image](https://github.com/user-attachments/assets/581daa9a-7e7e-4bcd-8405-8045ae04f53f)
+
+![image](https://github.com/user-attachments/assets/b3bb9f86-a922-49ee-94a7-87e81063234b)
+
+## 2. Включаем режим разработчика во вкладке расширений и грузим туда нашу папку как распакованное расширение.
+![image](https://github.com/user-attachments/assets/91eb814e-2ee0-46f7-9b97-cbaca7a130de)
+
+## 3. Удостоверяемся, что расширение включилось
+![image](https://github.com/user-attachments/assets/845f9373-0970-41b8-bcc6-b8b1608264c1)
+
+## 4. Заходим в геогессер, ставим нашему аватару кепку и радуемся жизни.
+![image](https://github.com/user-attachments/assets/74e9bed6-ffff-44a7-bdfe-6d63c4b68aba)
