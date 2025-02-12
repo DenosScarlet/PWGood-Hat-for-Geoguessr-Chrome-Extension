@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "priority": 1,
+      "action": {
+        "type": "redirect",
+        "redirect": {
+          "url": "https://psv4.userapi.com/s/v1/d/DrpCW3UpGrdTQSgELDw-grtElD6w9DmUN0hbxBDji58voFnILl2P1ZiosvMrJmTDFtcT0BAsOwVi2ZxxYpuTvEAC4BPDrWxsEKGm_mANCbyG00ur-NwacA/pwgd1.webp"
+        }
+      },
+      "condition": {
+        "urlFilter": "https://www.geoguessr.com/assets/texture/1a3d6756e73509a23f182da4ded0e5a0.webp",
+        "resourceTypes": ["script", "image", "stylesheet", "xmlhttprequest"]
+      }
+    },
+    {
+      "id": 2,
+      "priority": 1,
+      "action": {
+        "type": "redirect",
+        "redirect": {
+          "url": "https://www.geoguessr.com/assets/mesh/4f809840fd17b06504f1861e87c5e824.glb"
+        }
+      },
+      "condition": {
+        "urlFilter": "https://www.geoguessr.com/assets/mesh/e54f74afc499e84a17503b07727d7bcd.glb",
+        "resourceTypes": ["xmlhttprequest", "other"]
+      }
+    }
+  ]
